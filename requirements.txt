@@ -1,0 +1,5 @@
+selenium
+ffmpy
+pydub
+fake_useragent
+speech_recognition
